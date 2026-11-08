@@ -1,0 +1,2 @@
+# indicatrix
+mineralogy demo
